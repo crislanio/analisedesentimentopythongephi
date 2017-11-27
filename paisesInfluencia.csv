@@ -1,0 +1,46 @@
+Source,Target,Label,Weight
+Pacific Time (US & Canada),marvel,marvel,58
+Pacific Time (US & Canada),thorki,thorki,39
+Pacific Time (US & Canada),tickets,tickets,38
+Jakarta,tickets,tickets,27
+Jakarta,marvel,marvel,23
+Jakarta,movie,movie,17
+Bangkok,thorki,thorki,28
+Bangkok,marvel,marvel,24
+Bangkok,hela,hela,14
+Hanoi,thorki,thorki,20
+Hanoi,marvel,marvel,13
+Hanoi,hela,hela,10
+Eastern Time (US & Canada,marvel,marvel,58
+Eastern Time (US & Canada,thorki,thorki,39
+Eastern Time (US & Canada,tickets,tickets,38
+Central Time (US & Canada,marvel,marvel,58
+Central Time (US & Canada,thorki,thorki,39
+Central Time (US & Canada,tickets,tickets,38
+Mountain Time (US & Canada),hulk,hulk,5
+Mountain Time (US & Canada),thor,thor,4
+Mountain Time (US & Canada),exclusive,exclusive,3
+Tokyo,studios,studios,4
+Tokyo,tickets,tickets,4
+Tokyo,world,world,3
+Quito,movie,movie,3
+Quito,poster,poster,2
+Quito,funny,funny,2
+Mexico City,loki,loki,10
+Mexico City,marvel,marvel,5
+Mexico City,miedo,miedo,3
+Atlantic Time (Canada),marvel,marvel,3
+Atlantic Time (Canada),movie,movie,2
+Atlantic Time (Canada),going,going,2
+Seoul,gonna,gonna,3
+Seoul,good,good,3
+Seoul,story,story,3
+Arizona,tickets,tickets,4
+Arizona,still,still,2
+Arizona,look,look,2
+London,good,good,2
+London,movies,movies,2
+London,marvel,marvel,2
+Brasilia,gostei,gostei,2
+Brasilia,filme,filme,2
+Brasilia,thor,thor,2
